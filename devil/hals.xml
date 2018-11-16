@@ -1,3 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
   <project path="hardware/qcom/audio" name="platform/hardware/qcom/audio" groups="qcom,qcom_audio,pdk-qcom" />
   <project path="hardware/qcom/bootctrl" name="platform/hardware/qcom/bootctrl" groups="pdk-qcom" />
   <project path="hardware/qcom/bt" name="platform/hardware/qcom/bt" groups="qcom,pdk-qcom" />
@@ -26,3 +29,6 @@
   <project path="hardware/qcom/sdm845/thermal" name="platform/hardware/qcom/sdm845/thermal" groups="qcom_sdm845" />
   <project path="hardware/qcom/sdm845/vr" name="platform/hardware/qcom/sdm845/vr" groups="qcom_sdm845" />
   <project path="hardware/qcom/wlan" name="platform/hardware/qcom/wlan" groups="qcom_wlan,pdk-qcom" />
+
+</manifest>
+
