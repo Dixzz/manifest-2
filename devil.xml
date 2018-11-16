@@ -13,4 +13,8 @@
   <!-- Removed projects -->	   
   <include name="remove.xml" />
 
+  <!-- Tools of devil -->
+  <include name="devil/build.xml" />
+
+
 </manifest>
