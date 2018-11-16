@@ -28,3 +28,19 @@ Change device with your device code name. Ex.- mido, tissot, dumpling, etc.
     $  lunch_<devicecodename>-<userdebug/eng) && make bacon
 
 # ======== # ======== # ======== # ======== #
+
+---------------------------------------------------------------------------------------
+ Credits:
+ =======
+
+ * [**LineageOS**](https://github.com/LineageOS)
+ * [**DotOS**](https://github.com/DotOS)
+ * [**ArrowOS**](https://github.com/ArrowOS)
+ * [**PixelExperience**](https://github.com/PixelExperience)
+ * [**AospExtended**](https://github.com/AospExtended)
+ * [**CypherOS**](https://github.com/CypherOS)
+ * [**Xtended**](https://github.com/Xtended-Pie)
+ * [**GZOSP**](https://github.com/GZOSP)
+ * [**LeanOS**](https://raw.githubusercontent.com/LeanOS-Project)
+
+---------------------------------------------------------------------------------------
