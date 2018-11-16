@@ -4,8 +4,8 @@
   <project path="external/ant-wireless/antradio-library" name="platform_external_ant-wireless_antradio-library" remote="devil" />
   <project path="external/ant-wireless/ant_native" name="platform_external_ant-wireless_ant_native" remote="devil" />
   <project path="external/ant-wireless/ant_service" name="platform_external_ant-wireless_ant_service" remote="devil" />
-  <project path="external/exfat" name="platform_external_exfat" remote="devil" />
-  <project path="external/ntfs-3g" name="platform_external_ntfs-3g" remote="devil" />
+  <project path="external/exfat" name="external_exfat" remote="devil" />
+  <project path="external/ntfs-3g" name="android_external_ntfs-3g" remote="devil" />
   <project path="external/libphonenumber" name="platform_external_libphonenumber" remote="devil" />
   <project path="external/perfetto" name="platform_external_perfetto" remote="devil" />
   <project path="external/selinux" name="platform_external_selinux" remote="devil" />

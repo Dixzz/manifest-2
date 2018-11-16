@@ -15,6 +15,12 @@
   <remote name="github"
 	      fetch="https://github.com/" />
 
+  <!-- LeanOS remote -->
+  <remote name="lean"
+          fetch="https://github.com/LeanOS-Project"
+          revision="refs/heads/lean-9.x"
+          sync-j="16" />
+
   <remote name="lineage"
           fetch="https://github.com/LineageOS"
 	      revision="refs/heads/lineage-16.0" />
