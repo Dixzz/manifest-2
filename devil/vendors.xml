@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <project path="vendor/devilian" name="android_vendor_devilian" remote="devil" />
+    <project path="vendor/qcom/opensource/dataservices" name="android_vendor_qcom_opensource_dataservices" remote="devil" />
+    <project path="vendor/qcom/opensource/interfaces" name="android_vendor_qcom_opensource_interfaces" remote="devil" />
+    <project path="vendor/qcom/opensource/dpm" name="platform_vendor_qcom_opensource_dpm" remote="devil" />
+    <project path="vendor/qcom/opensource/audio" name="android_vendor_qcom_opensource_audio" remote="devil" />
+    <project path="vendor/codeaurora/telephony" name="platform_vendor_codeaurora_telephony" remote="devil" />
+
+</manifest>

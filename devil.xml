@@ -15,6 +15,13 @@
 
   <!-- Tools of devil -->
   <include name="devil/build.xml" />
-
+  <include name="devil/devices.xml" />
+  <include name="devil/external.xml" />
+  <include name="devil/frameworks.xml" />
+  <include name="devil/hals.xml" />
+  <include name="devil/packages.xml" />
+  <include name="devil/prebuilts.xml" />
+  <include name="devil/system.xml" />
+  <include name="devil/vendors.xml" />
 
 </manifest>
