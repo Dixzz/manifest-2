@@ -706,4 +706,7 @@
 
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
+  <!-- Manifest for DevilOS -->
+  <include name="devil.xml" />
+
 </manifest>
