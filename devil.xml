@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- Devil remote -->
+  <remote name="devil"
+          fetch="https://github.com/DevilianOS-Project"
+          revision="refs/heads/pie"
+          sync-j="16" />
+
+  <remote name="github"
+          fetch="https://github.com/" />
+		   
+  <!-- Removed projects -->	   
+  <include name="remove.xml" />
+
+</manifest>
